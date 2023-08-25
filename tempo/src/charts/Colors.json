@@ -1,0 +1,11 @@
+[
+    {
+        "Temperature": "Red"
+    },
+    {
+        "Pressure": "Blue"
+    },
+    {
+        "Flow": "Green"
+    }
+]
